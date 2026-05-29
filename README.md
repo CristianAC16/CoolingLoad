@@ -14,8 +14,7 @@ The building is divided into six zones, and all major load components were evalu
 - Ceiling height: 10 ft  
 - **Zones:** Dining, Kitchen, Storage/Prep, Walk‑In Cooler, Washrooms, Entrance/Lobby
 
-**Insert image:**  
-<img src="https://i.imgur.com/zdNXy5j.png" height="100%" width="100%" alt="Floor Plan"/>
+<img src="https://i.imgur.com/JMcQXcf.png" height="50%" width="50%" alt="Floor Plan"/>
 
 ---
 
@@ -42,10 +41,6 @@ The building is divided into six zones, and all major load components were evalu
 ### Entrance Window
 - Size: **5 ft × 5 ft**  
 - SC: **0.76**
-
-**Insert image:**  
-`![Window Layout](images/windows.png)`
-
 ---
 
 ## Ventilation & Infiltration
@@ -57,18 +52,13 @@ The building is divided into six zones, and all major load components were evalu
 - Infiltration: **0.5 ACH**
 
 Latent ventilation load:  
-
-
-\[
-Q_{lat} = 4840 \cdot \text{CFM} \cdot (W_{out} - W_{in})
-\]
+Q_{lat} = 4840 x CFM x (W_{out} - W_{in})
 
 
 
 ---
 
 ## 📊 Zone Load Summary
-
 | Zone | Total Load (BTU/hr) |
 |------|----------------------|
 | Dining Area | **178,921** |
@@ -79,8 +69,16 @@ Q_{lat} = 4840 \cdot \text{CFM} \cdot (W_{out} - W_{in})
 | Entrance / Lobby | **13,655** |
 | **Total** | **238,846 BTU/hr ≈ 20 tons** |
 
-**Insert image:**  
-`![Zone Load Table](images/zoneloads.png)`
+<p align="center">
+<img src="https://i.imgur.com/oLL5qtJ.png" height="100%" width="100%" alt="Conduction Loads"/>
+<br/> Conduction Loads
+<br />    
+</p>
+<br>
+<p align="center">
+<img src="https://i.imgur.com/EwPdhz4.png" height="50%" width="50%" alt="Floor Plan"/>
+<img src="https://i.imgur.com/6fMJsHG.png" height="50%" width="50%" alt="Floor Plan"/>
+</p>
 
 ---
 
@@ -89,16 +87,6 @@ Q_{lat} = 4840 \cdot \text{CFM} \cdot (W_{out} - W_{in})
 - Ventilation latent load is high due to July humidity — typical for restaurants.  
 - Walk‑in cooler **product load excluded** (handled by its own refrigeration system).  
 - Final system recommendation: **20‑ton cooling capacity**.
-
----
-
-## Suggested Images to Include
-- `images/floorplan.png` — Zone layout  
-- `images/windows.png` — Window placement & sizes  
-- `images/glazing.png` — Glass type (3 mm + air + 3 mm)  
-- `images/solarcalc.png` — Solar load example  
-- `images/psychrometrics.png` — Ventilation latent calc  
-- `images/zoneloads.png` — Final load table  
 
 ---
 
