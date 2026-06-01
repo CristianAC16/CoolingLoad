@@ -22,9 +22,11 @@ The analysis includes:
 - Ceiling height: 10 ft  
 - **Zones:** Dining, Kitchen, Storage/Prep, Walk‑In Cooler, Washrooms, Entrance/Lobby
 
+<p align="center">
 <img src="https://i.imgur.com/JMcQXcf.png" height="50%" width="50%" alt="Floor Plan"/>
-Floor Plan
-<br>
+<br> Floor Plan
+</p>
+
 ---
 
 ## Design Conditions
