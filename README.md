@@ -23,8 +23,8 @@ The analysis includes:
 - **Zones:** Dining, Kitchen, Storage/Prep, Walk‑In Cooler, Washrooms, Entrance/Lobby
 
 <img src="https://i.imgur.com/JMcQXcf.png" height="50%" width="50%" alt="Floor Plan"/>
-<br /> Floor Plan
-
+Floor Plan
+<br>
 ---
 
 ## Design Conditions
