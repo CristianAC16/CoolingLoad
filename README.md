@@ -84,8 +84,9 @@ Q_{lat} = 4840 x CFM x (W_{out} - W_{in})
 </p>
 <br>
 <p align="center">
-<img src="https://i.imgur.com/EwPdhz4.png" height="50%" width="50%" alt="Floor Plan"/>
-<img src="https://i.imgur.com/6fMJsHG.png" height="50%" width="50%" alt="Floor Plan"/>
+<img src="https://i.imgur.com/EwPdhz4.png" height="50%" width="50%" alt="Total Load Calculation 1"/>
+<img src="https://i.imgur.com/6fMJsHG.png" height="50%" width="50%" alt="Total Load Calculation 2"/> 
+<br /> Total Load Calculation
 </p>
 
 ---
