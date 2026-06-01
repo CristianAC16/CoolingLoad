@@ -1,8 +1,16 @@
 # Restaurant HVAC Cooling Load Calculation (Montreal — July Design)
 
-## Project Summary
-This project calculates the **peak summer cooling load** for a **4,150 ft² restaurant** in Montreal using a **July design day**.  
-The building is divided into six zones, and all major load components were evaluated: conduction, solar gains, people, lighting, equipment, infiltration, and ventilation.
+## Cooling Load Analysis — 4,350 ft² Restaurant (Montreal, July)
+
+This project models the peak summer cooling load of a multi‑zone restaurant using Excel.  
+The analysis includes:
+
+- Internal gains (people, lighting, equipment)
+- Solar heat gain through glazing
+- Envelope conduction
+- Infiltration (0.5 ACH)
+- Ventilation per ASHRAE 62.1
+- Kitchen exhaust / make‑up air at 1.5 CFM/ft²
 
 **Final Result:**  
 **Total Cooling Load = 238,846 BTU/hr ≈ 20 tons**
